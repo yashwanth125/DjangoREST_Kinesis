@@ -14,7 +14,7 @@
 ## Data is Dynamically partitioned in S3
 ![image](https://user-images.githubusercontent.com/35525451/191236191-1c334690-d6a5-4925-8ef0-6b92b03787cd.png)
 
-
+### CI/CD Pipeline
 ![image](https://user-images.githubusercontent.com/35525451/191227369-4999195f-d7a5-42d2-85c1-2da9af145230.png)
 
 
