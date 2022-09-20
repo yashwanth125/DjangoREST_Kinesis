@@ -1,0 +1,7 @@
+
+ [
+     {
+         "name": "django",
+         "imageUri": "985290329026.dkr.ecr.us-east-1.amazonaws.com/django:latest"
+     }
+ ]
